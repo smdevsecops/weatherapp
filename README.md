@@ -32,4 +32,4 @@ An interactive and responsive weather app built with vanilla HTML, CSS, and Java
 - Country dropdown for more accurate searches
 
 ## 👩🏽‍💻 Author
-Made by [Your Name](https://github.com/YOUR_USERNAME)
+Made by Star (https://github.com/smdevsecops)
